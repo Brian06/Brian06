@@ -1,6 +1,8 @@
 # Hello!, my name is Brian Salazar!
 ### Software Engineer focused in frontend development
 
+![https://github.com/Brian06](https://github.com/Brian06/Brian06/blob/main/frontend-banner.jpeg)
+
 I'm a professional software developer for almost five years.
 
 Since I started working I have used frontend technologies that I have begun to love, I also worked six months as a fullstack using java with Sprintboot but I definitely liked the frontend more, I also used nodejs to do small backend jobs.
