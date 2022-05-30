@@ -34,6 +34,10 @@ As a frontend I have mostly used vanilla javascript which has helped me to impro
 [![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Expressjs](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge)]()
 
+## Statistics:
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brian06&show_icons=true&theme=dracula&count_private=true)]()
+
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Salazar_Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brian-salazar-s%C3%A1nchez-610068131)
